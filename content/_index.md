@@ -1,4 +1,5 @@
 <!-- 我是注释 -->
+
 {{< typeit >}}
-Lorem ipsum dolor sit amet 
+_Hello World!_
 {{< /typeit >}}
