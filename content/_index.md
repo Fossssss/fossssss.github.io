@@ -1,4 +1,4 @@
-<!-- 这是一个注释 -->
+#test
 {{< typeit >}}
 Hello World!
 {{< /typeit >}}
